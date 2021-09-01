@@ -1,0 +1,6 @@
+rootProject.name = "YwRouter"
+include ':ModuleMain'
+include ':ModuleUser'
+include ':LibAnnotation'
+include ':LibAnnotationProcessor'
+include ':LibRouter'
